@@ -5,7 +5,7 @@
 The project is an in-depth exploration into the dynamics of stock markets over time, employing sophisticated time series analysis techniques. This research lab aims to uncover the impact of significant events on stock behavior by utilizing state-of-the-art event sensitivity models, namely ARIMA, SARIMA, and Prophet.
 
 ## Objectives:
-<Temporal Exploration:>
+### Temporal Exploration:
 Conduct a thorough investigation into the temporal aspects of financial markets, unraveling patterns, and dynamics hidden within historical stock data.
 
 Event Sensitivity Modeling:
@@ -20,7 +20,7 @@ Evaluate the forecasting accuracy of the models, both individually and as an ens
 Visual Exploration:
 Utilize dynamic visualizations to explore how event sensitivity models capture and represent the impact of events on stock prices over different time horizons.
 
-Key Features:
+## Key Features:
 Time Series Forecasting Triad:
 The project leverages ARIMA, SARIMA, and Prophet collectively as a powerful ensemble, referred to as the "Event Sensitivity Models," to provide a holistic view of stock dynamics.
 
