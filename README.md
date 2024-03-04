@@ -6,19 +6,19 @@ The project is an in-depth exploration into the dynamics of stock markets over t
 
 ## Objectives:
 ### Temporal Exploration:
-Conduct a thorough investigation into the temporal aspects of financial markets, unraveling patterns, and dynamics hidden within historical stock data.
+This project will conduct a thorough investigation into the temporal aspects of financial markets, unraveling patterns, and dynamics hidden within historical stock data.
 
 ### Event Sensitivity Modeling:
-Develop and implement advanced time series forecasting models – ARIMA, SARIMA, and Prophet – specifically tailored for analyzing the sensitivity of stock prices to significant events.
+It Develops and implements advanced time series forecasting models – ARIMA, SARIMA, and Prophet – specifically tailored for analyzing the sensitivity of stock prices to significant events.
 
 ### Quantitative Inquiry:
-Employ quantitative methods to measure and assess the influence of events on stock fluctuations, providing a nuanced understanding of the temporal dynamics.
+This project will employ quantitative methods to measure and assess the influence of events on stock fluctuations, providing a nuanced understanding of the temporal dynamics.
 
 ### Forecasting Accuracy:
-Evaluate the forecasting accuracy of the models, both individually and as an ensemble, to ascertain their effectiveness in predicting stock movements surrounding key events.
+The evaluate the forecasting accuracy of the models, both individually and as an ensemble, to ascertain their effectiveness in predicting stock movements surrounding key events.
 
 ### Visual Exploration:
-Utilize dynamic visualizations to explore how event sensitivity models capture and represent the impact of events on stock prices over different time horizons.
+Utilizing dynamic visualizations to explore how event sensitivity models capture and represent the impact of events on stock prices over different time horizons.
 
 ## Key Features:
 ### Time Series Forecasting Triad:
