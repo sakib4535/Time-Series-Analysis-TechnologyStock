@@ -14,7 +14,7 @@ def fetch_and_save_data(ticker_symbol, start_date, end_date, output_file):
 if __name__ == "__main__":
     # Set the parameters
     ticker_symbol = "AAPL"
-    start_date = "2022-01-01"
+    start_date = "2021-01-01"
     end_date = "2023-01-01"
     output_file = "stock_data.csv"
 
